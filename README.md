@@ -1,4 +1,4 @@
-## This is a test
+## Testing
 
 You can use the [editor on GitHub](https://github.com/briangillis/Indeed-Scraping/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
